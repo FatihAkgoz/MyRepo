@@ -1,2 +1,2 @@
 # MyRepo
-This is just a test
+This is the repository for practice purposes.
